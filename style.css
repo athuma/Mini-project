@@ -1,0 +1,12 @@
+.lead{
+    margin-left: 35%;
+    color: gold;
+}
+.display-4{
+    margin-left: 42%;
+    color: aqua;
+    
+}
+html{
+    min-height: 100%;
+}
